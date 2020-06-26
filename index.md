@@ -6,7 +6,7 @@ Disguised as a mute gardener, he gets acquainted with Princess Slavěna, who is 
 Her father, the king, is looking for a suitor for the princess, but no one is prepared to fight the dragon, except Bajaja, who receives magical armor from the enchanted horse. 
 Although hurt, Bajaja defeats the dragon, but an evil knight takes credit for the deed. 
 
-###Character traits for Prince Bajaja
+### Character traits for Prince Bajaja
 
 * fierce
 * amicable
