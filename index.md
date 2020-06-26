@@ -7,7 +7,8 @@ Her father, the king, is looking for a suitor for the princess, but no one is pr
 Although hurt, Bajaja defeats the dragon, but an evil knight takes credit for the deed. 
 
 ###Character traits for Prince Bajaja
-*fierce
-*amicable
-*loving
-*decided
+
+* fierce
+* amicable
+* loving
+* decided
