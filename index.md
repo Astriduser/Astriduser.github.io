@@ -13,12 +13,7 @@ Although hurt, Bajaja defeats the dragon, but an evil knight takes credit for th
 * loving
 * decided
 
-> Take this you stupid dragon
-
-> Do not dare to come back 
-
-
-
->Why is this all in one line?
+> Take this you stupid dragon. 
+> Do not dare to come back. 
 
 <img src="https://de.depositphotos.com/stock-photos/prince-horse.html?qview=52446905"/>
