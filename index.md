@@ -12,6 +12,7 @@ Although hurt, Bajaja defeats the dragon, but an evil knight takes credit for th
 * amicable
 * loving
 * decided
+* courageous
 
 > Take this you stupid dragon. 
 > Do not dare to come back. 
