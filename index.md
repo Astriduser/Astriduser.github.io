@@ -21,4 +21,4 @@ Although hurt, Bajaja defeats the dragon, but an evil knight takes credit for th
 
 >Why is this all in one line?
 
-![GitHub Logo](/images/logo.png)Format: ![Alt Text](url
+<img src="https://de.depositphotos.com/stock-photos/prince-horse.html?qview=52446905"/>
