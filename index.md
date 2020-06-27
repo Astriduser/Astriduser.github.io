@@ -13,4 +13,6 @@ Although hurt, Bajaja defeats the dragon, but an evil knight takes credit for th
 * loving
 * decided
 
-> Take this you stupid dragon> Do not dare to come back
+> Take this you stupid dragon
+> Do not dare to come back 
+> Otherwise I will have to reduce your 3 heard to 1
